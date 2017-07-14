@@ -1,2 +1,2 @@
-# mappy
-Map-based functions for spatial data for the UK
+### UK postal areas
+This folder contains the shapefile with the UK postal areas
