@@ -1,7 +1,13 @@
 ### NUTS
 
-This folder consists of multiple shapefiles for the Nomenclature of Territorial Units for Statistics (NUTS) for the United Kingdom (Great Britain and Northen Ireland) and Great Britain only
+This folder contains multiple tables and shapefiles of the Nomenclature of Territorial Units for Statistics (NUTS) classification 
+of the European Union (EU) and the United Kingdom in particular.  
 
-The shapefiles are according to the three levels as provided by the European Commission http://ec.europa.eu/eurostat/web/nuts, i.e. NUTS level 1, level 2 and level 3
+The NUTS classification is a hierarchical system for dividing up the economic territory of the EU for the purpose of the collection, development and harmonisation of European and regional statistics
+- NUTS 1: major socio-economic regions
+- NUTS 2: basic regions for the application of regional policies
+- NUTS 3: small regions for specific diagnoses 
 
-The shapefiles and the tables provided are valid as of 1st of January 2015
+All data is freely available at http://ec.europa.eu/eurostat/web/nuts
+
+The current dataset is valid as of 1st of January 2015
