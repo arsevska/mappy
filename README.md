@@ -1,2 +1,2 @@
 # mappy
-Map-based functions
+Map-based functions for the UK
